@@ -1,11 +1,11 @@
 # Setup
 title: hazel's home
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: And if forever lasts till now Alright.
 url: /Hazelyu27.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg2.jpeg
 
 # Gems
 plugins:
@@ -57,5 +57,9 @@ author:
   name: Xinran Xu
   url: https://github.com/Hazelyu27/Hazelyu27.github.io/
   email: xuxinran27@163.com
+
+plugins:
+  - not-pure-poole
+  - jekyll-remote-theme
 
 # remote-theme: riggraz/no-style-please
