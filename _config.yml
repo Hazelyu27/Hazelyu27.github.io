@@ -59,7 +59,6 @@ author:
   email: xuxinran27@163.com
 
 plugins:
-  - not-pure-poole
   - jekyll-remote-theme
 
 # remote-theme: riggraz/no-style-please
