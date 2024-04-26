@@ -58,7 +58,5 @@ author:
   url: https://github.com/Hazelyu27/Hazelyu27.github.io/
   email: xuxinran27@163.com
 
-plugins:
-  - jekyll-remote-theme
 
 # remote-theme: riggraz/no-style-please
